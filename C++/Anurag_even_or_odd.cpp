@@ -13,4 +13,5 @@ int main()
     {
         cout << n << " is a odd number." << endl;
     }
+return 0 ;  // it returns the value from the main function .
 }
